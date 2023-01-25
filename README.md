@@ -2,11 +2,11 @@
 my first to create a repository
 i will write bioinformatics workshop,we have had from 23 jan 2023
 
-#DAY ONE;
+# DAY ONE;
 Installation of tools;git bash and r studio
 
-#DAY TWO;
+# DAY TWO;
 Introduction to commmand line
 
-#DAY THREE;
+# DAY THREE;
 Introdution to github
